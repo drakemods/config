@@ -25,7 +25,7 @@
 "OI":"</font><font color=\"#008000\">ON</font>",
 "dataup":"29/03/2022",
 "boxsms":"Caixa de mensagens",
-"SendMessage":2,
+"SendMessage":3,
 "Message":"Entre em nosso canal no telegram, quando ocorrer novas atualizações, você será avisado.",
 "alerta":"",
 "alertamsg":"Esta mensagem sempre aparecera assim que o usuário abrir o app, para deixar oculta deixe (alerta) vazio ",
